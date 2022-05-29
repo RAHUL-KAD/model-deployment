@@ -21,3 +21,9 @@
         python main.py
 
 4. Volla you have your web app running on http://127.0.0.1:8088
+
+*I am gussing you are fimilar with GCP, if you are not then watch a tutorial or read a blog.*
+
+5. Create a new project and install gcloud cli in your os environment.
+
+https://towardsdatascience.com/build-a-machine-learning-web-app-in-python-683480acbd37
