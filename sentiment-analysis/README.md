@@ -20,4 +20,4 @@
 
         python main.py
 
-4. Volla you have your web app running on http://127.0.0.1/8088
+4. Volla you have your web app running on http://127.0.0.1:8088
